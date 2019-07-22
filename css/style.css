@@ -518,7 +518,7 @@ font-family: Arial;
 /*---------------- Form Home Styling ------------------- */
 
 .form .hero-section {
-	background-image: url("../images/bg.jpg");
+	background-image: url("../images/bg.jpeg");
 	background-size: cover;
 	padding: 150px 0 0 0;
 
@@ -1066,7 +1066,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .clients .single img {
-	-webkit-filter: grayscale(100%);
+	-webkit-filter: whitee(100%);
     filter: grayscale(100%);
 		opacity: 0.6;
 }
@@ -1476,7 +1476,7 @@ padding: 120px 10px 50px 350px;
 .review-section {
 	padding: 150px 0 150px 0;
 	text-align: center;
-	background: #F4F4F4;
+	background: #ffffff;
 }
 
 
